@@ -1,4 +1,4 @@
-# 
+# Bitwarden is a free, open-source password manager that keeps your data safe and accessible across all your devices.
 
 
 
